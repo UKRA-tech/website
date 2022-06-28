@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Stuart Livings
+title: Ronald Hatcher
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: A Wizard
+role: Promoting and representing high power, medium power and model rocketry in the United Kingdom for amateur research, educational and recreational purposes
 
 # Organizations/Affiliations
 # organizations:
