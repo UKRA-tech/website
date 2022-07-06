@@ -4,7 +4,7 @@
 title: "UKRA 2021 AGM Election results"
 subtitle: ""
 summary: ""
-authors: [ron]
+authors: [stuart]
 tags: []
 categories: []
 date: 2021-09-30T23:14:41+01:00
