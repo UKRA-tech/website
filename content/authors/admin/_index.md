@@ -1,6 +1,6 @@
 ---
 # Display name
-title: United Kingdom Rocketry Association (UKRA)
+title: UKRA Council
 
 # Is this the primary user of the site?
 superuser: true
