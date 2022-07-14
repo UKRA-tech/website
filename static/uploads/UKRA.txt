@@ -1,0 +1,28 @@
+2006 was a bad year for the UKRA membership, and we suffered from many problems. We would like to explain what steps we have taken or are about to take to improve service for 2007 and beyond.
+
+Firstly we would like to advise all members who were affected by the major issues and did not receive their membership documentation in 2006 that they will be receiving free membership in 2007. You will receive a letter in the next couple of weeks to this effect.
+
+As for the problems and what we are doing to limit their effects in the future.
+
+Postal Failures;
+
+Two full sets of UKRA membership paperwork were lost or destroyed by the Royal Mail this year; this was mail that came from membership to the BMFA. Please note that the BMFA sometimes take a few weeks to process the paperwork so this issue was not brought to our attention for several months. While we cannot fix the Royal Mail we will, in future, be sending membership documentation to them by registered mail.
+
+Some members have not received mail which was sent to them - in particular Certification certificates; unfortunately we can see no easy way to solve this issue as sending all mail as registered is not financially viable. Instead for membership applications and renewals we will now send you an email when we have received all relevant paperwork and monies to process your application - when you receive this mail you will be given a login for the UKRA website and you will be insured to fly.
+
+Currently all mail gets sent to the UKRA PO box and a UKRA member periodically picks the mail up and forwards it to the membership secretary. We have looked into this process and found that we can set up a mail redirect on the PO Box so that it will automatically be sent on to the membership secretaries home address meaning we will not have a delay in mail getting to us.
+
+Computer Failure;
+
+The renewals this year are going out late due to the fact that the machine which holds all the information crashed and had to be rebuilt. This has now been completed and we are in the process of validating the database before sending the renewals out - hopefully by this weekend.  Although backups had been taken these were not immediately accessible to the rest of the council, and so in future a backup of the database will be stored on a remote machine to which at least two other council members have access; this should ensure someone else is able to pick up the load if there are computer problems or a member is ill.
+
+Email Issues;
+
+This year we have had some complaints that emails to membership have gone unanswered. We are doing two things to address this problem; the first is that now a copy of all enquiries sent through the UKRA web form will also be sent to a separate email address which can be accessed by at least three council members.  This mail list will be monitored and if no response is sent by the person assigned then someone else can respond.
+
+Secondly we will be looking to set up auto-responders on the current UKRA email addresses (e.g. membership@UKRA.org.uk) that will instead ask people to use the webform to make contact. The webform has a filter for non-members which will hopefully reduce the amount of spam received by council and other UKRA officials and therefore make it easier to deal with genuine enquiries.
+
+We will also try to ensure that all UKRA documentation needed by membership is available on the UKRA site for download, including the membership handbook, current safety code and membership applications / renewals.
+
+We hope these measures will improve the service we give to you and apologise for the problems caused last year.
+
