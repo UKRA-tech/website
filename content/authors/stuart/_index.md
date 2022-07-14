@@ -6,15 +6,15 @@ title: Stuart Livings
 authors:
 - stuart
 
-# Is this the primary user of the site?
+# false for everyone except the admin account
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
+# Role/position
+role: Deputy Chair
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Wizard Rockets
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

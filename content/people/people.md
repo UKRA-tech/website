@@ -22,3 +22,7 @@ design:
   show_role: true
   show_social: true
 ---
+
+UKRA is run by a council selected from its members. We hold an annual election and also co-opt members onto council who are kind enough to volunteer to assist.
+
+The current UKRA Council for 2021 to 2022 are:
