@@ -16,7 +16,11 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - council
+  - Officers
+  - Council
+  - S&T Committee
+  - Technology Committee
+
 design:
   show_interests: false
   show_role: true
@@ -25,4 +29,4 @@ design:
 
 UKRA is run by a council selected from its members. We hold an annual election and also co-opt members onto council who are kind enough to volunteer to assist.
 
-The current UKRA Council for 2021 to 2022 are:
+The current UKRA Council for 2021 to 2022
