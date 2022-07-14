@@ -22,18 +22,23 @@ publication_types:
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
-- Source Themes
+- safety
+- vor
+
 title: UKRA Safety Code
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_code: ''
+url_dataset: ''
+url_pdf: '/pdf/UKRA_Safety_Code_v7.0.pdf' 
 url_poster: '#'
 url_project: ""
 url_slides: ""
-url_source: '#'
+url_source: ''
 url_video: '#'
 ---
+
+{{< toc >}}
 
 The Safety Code document is updated from time to time and published by the Council of UKRA. The document sets out the minimum expected standards for a safe environment when executing amateur rocket flights.
 The Range Safety Officer (RSO) always has the final authority for the interpretation of this code. The latest version of the Safety Code may be found at the [UKRA website](​www.ukra.org.uk)
