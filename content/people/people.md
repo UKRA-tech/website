@@ -20,6 +20,7 @@ content:
   - Council
   - S&T Committee
   - Technology Committee
+  - TPS
 
 design:
   show_interests: false
