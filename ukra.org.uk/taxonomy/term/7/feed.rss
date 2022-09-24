@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ukra.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UKRA - United Kingdom Rocketry Association - safety code</title>
+ <link>http://ukra.org.uk/taxonomy/term/7</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>New safety code and upcoming AGM</title>
+ <link>http://ukra.org.uk/node/86</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;UKRA is delighted to announce the release of version 7.0 of the UKRA Safety Code.  This version includes a significant overhaul in document layout, improved clarification of key guidance and updated distance tables to reflect modern safety considerations.  The new version of this safety code is available on the dedicated &lt;a href=&quot;/safetycode&quot;&gt;Safety Code page here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;UKRA would also like to take this opportunity to advise members that the UKRA AGM will be virtual this year and currently expects for it to occur late autumn, provisionally October.  Please keep an eye out for future announcements regarding this AGM.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/7&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;safety code&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/6&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;agm&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 05 Aug 2020 07:07:31 +0000</pubDate>
+ <dc:creator>Stuart</dc:creator>
+ <guid isPermaLink="false">86 at http://ukra.org.uk</guid>
+ <comments>http://ukra.org.uk/node/86#comments</comments>
+</item>
+</channel>
+</rss>

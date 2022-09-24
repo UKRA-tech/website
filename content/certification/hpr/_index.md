@@ -15,7 +15,7 @@ date: 2018-09-09
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 2
 ---
 
 UKRA operates a HPR certification scheme for UKRA members to demonstrate proficiency and competence in rocketry operations for different rocket motor types and different levels of rocket motor power.

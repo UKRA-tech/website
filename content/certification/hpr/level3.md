@@ -2,7 +2,7 @@
 title: Level 3
 date: 2019-05-05
 type: book
-weight: 3
+weight: 5
 ---
 
 UKRA Level 3 Certification is required by any UKRA member wishing to fly a rocket powered by rocket motors of total impulse of M-class through to O-class, under UKRA insurance.
